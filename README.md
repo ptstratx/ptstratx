@@ -14,7 +14,17 @@ You immediately see if the strategy is good for profitable trades and then can t
 
 The buy strategy can consist of up to 5 different combinations, which you can compose out of 11 indicators:
 
-EMACROSS, EMASPREAD, EMAGAIN, SMACROSS, SMASPREAD, SMAGAIN, HIGHBB, LOWBB, MACD, RSI, STOCHRSI
+* EMACROSS
+* EMASPREAD
+* EMAGAIN
+* SMACROSS
+* SMASPREAD
+* SMAGAIN
+* HIGHBB
+* LOWBB
+* MACD
+* RSI
+* STOCHRSI
 
 The DCA strategy can consist of up to 3 different combinations, which you can put together from 12 indicators. (Please note: Anderson DCA must always be one of the 3 possible DCA strategies in the current version.):
 
