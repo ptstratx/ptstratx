@@ -18,11 +18,24 @@ EMACROSS, EMASPREAD, EMAGAIN, SMACROSS, SMASPREAD, SMAGAIN, HIGHBB, LOWBB, MACD,
 
 The DCA strategy can consist of up to 3 different combinations, which you can put together from 12 indicators. (Please note: Anderson DCA must always be one of the 3 possible DCA strategies in the current version.):
 
-EMACROSS, EMASPREAD, EMAGAIN, SMACROSS, SMASPREAD, SMAGAIN, HIGHBB, LOWBB, MACD, RSI, STOCHRSI, ANDERSON
+* EMACROSS
+* EMASPREAD
+* EMAGAIN
+* SMACROSS
+* SMASPREAD
+* SMAGAIN
+* HIGHBB
+* LOWBB
+* MACD
+* RSI
+* STOCHRSI
+* ANDERSON
 
 The sell strategy can consist of up to 2 different combinations, which you can create out of 3 indicators. Gain is always set as sell strategy A.
 
-GAIN, HIGHBB, RSI
+* GAIN
+* HIGHBB
+* RSI
 
 Furthermore, the price trailing as well as the stop loss as used by PT2 can be activated.
 
@@ -44,9 +57,13 @@ A short description of the settings for PTStratX can be downloaded here:
 - [English](https://github.com/ptstratx/ptstratx/raw/master/docs/PTStratX_Introduction_v1.0_en.pdf)
 
 ## How do I get access to the script
+You find the PTStratX Tester on TradingView: [PTStratX](https://www.tradingview.com/script/z3ZqfXLu-PTStratX-Multi-Period-Tester-for-Profit-Trailer-2/)
+
 For your lifetime access to the full version of PTStratX, request your access here: [@PTStratx_Bot](https://web.telegram.org/#/im?p=%40PTStratx_Bot) (Telegram)
 
 The price is 0.015 BTC. Of this revenue, we will donate 20% to a non-profit organization selected by the PT community.
+
+There is also a free trial version on TradingView with a limited functionality to demonstrate the featues [PTSTratX Trial](https://www.tradingview.com/script/rsQWN48o-PTStratX-Trial-Multi-Period-Tester-for-Profit-Trailer-2/)
 
 Good luck finding the best strategies
 
