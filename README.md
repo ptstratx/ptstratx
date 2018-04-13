@@ -26,7 +26,7 @@ The buy strategy can consist of up to 5 different combinations, which you can co
 * RSI
 * STOCHRSI
 
-The DCA strategy can consist of up to 3 different combinations, which you can put together from 12 indicators. (Please note: Anderson DCA must always be one of the 3 possible DCA strategies in the current version.):
+The DCA strategy can consist of up to 2 different combinations, which you can put together from 12 indicators. (Please note: Anderson DCA must always be one of the 2 possible DCA strategies in the current version.):
 
 * EMACROSS
 * EMASPREAD
