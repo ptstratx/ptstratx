@@ -60,11 +60,11 @@ Please note: For best results, please set the candle period of the chart itself 
 ## Where do I get support
 If you have question or need further information, you find the PTStratX Community on Telegram:
 -	[German](https://t.me/joinchat/F0Zt6w_pgIWJHb0NsfCFZA) (Telegram)
--	English (will follow soon)
+-	[English](https://t.me/joinchat/E0sioVFomfOEJbRUK6gA_A) (Telegram)
 
 A short description of the settings for PTStratX can be downloaded here:
-- [German](https://github.com/ptstratx/ptstratx/raw/master/docs/PTStratX_Introduction_v1.0_de.pdf)
-- [English](https://github.com/ptstratx/ptstratx/raw/master/docs/PTStratX_Introduction_v1.0_en.pdf)
+- [German](https://github.com/ptstratx/ptstratx/raw/master/docs/PTStratX_Kurzanleitung_de.pdf)
+- [English](https://github.com/ptstratx/ptstratx/raw/master/docs/PTStratX_Tutorial_en.pdf)
 
 ## How do I get access to the script
 You find the PTStratX Tester on TradingView: [PTStratX](https://www.tradingview.com/script/z3ZqfXLu-PTStratX-Multi-Period-Tester-for-Profit-Trailer-2/)
