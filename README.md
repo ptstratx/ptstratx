@@ -10,7 +10,7 @@ Even experienced traders and chart analysts are facing difficulties now and stru
 
 Our script allows to find this "best" strategy with ease, to visually verify it as your strategy and finally run backtests with historical data.
 
-![](https://github.com/ptstratx/ptstratx/blob/master/images/homewiki.JPG)
+![](https://github.com/ptstratx/ptstratx/blob/master/images/homeWiki.png)
 
 You immediately see if the strategy is good for profitable trades and then can test it by using the strategy tester in TradigView to find out how lucrative it would have been.
 
