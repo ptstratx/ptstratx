@@ -92,6 +92,8 @@ The price is 0.015 BTC. Of this revenue, we will donate 20% to a non-profit orga
 
 There is also a free trial version on TradingView with a limited functionality to demonstrate the featues [PTSTratX Trial](https://www.tradingview.com/script/rsQWN48o-PTStratX-Trial-Multi-Period-Tester-for-Profit-Trailer-2/)
 
+New: a Trial Version of the Addon [PTSTratX Trial Addon](https://www.tradingview.com/script/gNxyGJAI-PTStratX-Trial-Multi-Oscillator-Addon/)
+
 Good luck finding the best strategies
 
 Your PTStratX Team
