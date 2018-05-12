@@ -95,7 +95,10 @@ There is also a free trial version on TradingView with a limited functionality t
 New: a Trial Version of the Addon [PTSTratX Trial Addon](https://www.tradingview.com/script/gNxyGJAI-PTStratX-Trial-Multi-Oscillator-Addon/)
 
 Info!
-[Binance / Best Exchange for PT2 / Get your free ACC here!](https://www.binance.com/?ref=29313875)
+
+[Binance / Best Exchange for PT2](https://www.binance.com/?ref=29313875)
+
+[Get Profit Trailer / best Bot for Cryptos](https://www.binance.com/?ref=29313875)
 
 Good luck finding the best strategies
 
