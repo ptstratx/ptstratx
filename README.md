@@ -88,7 +88,7 @@ You find the PTStratX Tester on TradingView: [PTStratX](https://www.tradingview.
 
 For your lifetime access to the full version of PTStratX, request your access here: [@PTStratx_Bot](https://web.telegram.org/#/im?p=%40PTStratx_Bot) (Telegram)
 
-The price is 0.015 BTC. Of this revenue, we will donate 20% to a non-profit organization selected by the PT community.
+The price is 0.015 BTC.
 
 There is also a free trial version on TradingView with a limited functionality to demonstrate the featues [PTSTratX Trial](https://www.tradingview.com/script/rsQWN48o-PTStratX-Trial-Multi-Period-Tester-for-Profit-Trailer-2/)
 
