@@ -96,7 +96,7 @@ New: a Trial Version of the Addon [PTSTratX Trial Addon](https://www.tradingview
 
 Trade on [Binance / Best Exchange for PT2](https://www.binance.com/?ref=29313875)
 
-Get [Profit Trailer](https://www.binance.com/?ref=29313875)
+Get [Profit Trailer](https://profittrailer.com/)
 
 Good luck finding the best strategies
 
