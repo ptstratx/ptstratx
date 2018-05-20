@@ -3,7 +3,7 @@
 
 
 
-[Here](https://github.com/ptstratx/ptstratx/wiki/PTStratX-Free-Edition) you get your PTStraTX Free Edition.
+[Here](https://github.com/ptstratx/ptstratx/wiki/PTStratX-Free-Edition) you get your PTStratX Free Edition.
 
 
 ## PTStratX - Multi Period Tester for Profit Trailer 2
