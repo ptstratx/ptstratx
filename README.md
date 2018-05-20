@@ -98,10 +98,6 @@ For your lifetime access to the full version of PTStratX, request your access he
 
 The price is 0.015 BTC.
 
-There is also a free trial version on TradingView with a limited functionality to demonstrate the featues [PTSTratX Trial](https://www.tradingview.com/script/rsQWN48o-PTStratX-Trial-Multi-Period-Tester-for-Profit-Trailer-2/)
-
-New: a Trial Version of the Addon [PTSTratX Trial Addon](https://www.tradingview.com/script/gNxyGJAI-PTStratX-Trial-Multi-Oscillator-Addon/)
-
 Trade on [Binance / Best Exchange for PT2](https://www.binance.com/?ref=29313875)
 
 Get [Profit Trailer](https://profittrailer.com/)
