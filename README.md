@@ -1,5 +1,13 @@
 
-# PTStratX - Multi Period Tester for Profit Trailer 2
+# The time has come. PTStratX Free Edition is here!
+
+**Here you get the PTStratX Free Edition
+
+[PTStratX Free](https://github.com/ptstratx/ptstratx/wiki/PTStratX-Free-Edition)
+
+[PRO vs Free](https://github.com/ptstratx/ptstratx/wiki/PTStratX-PRO-vs-Free)
+
+**PTStratX - Multi Period Tester for Profit Trailer 2
 
 <img src="https://github.com/ptstratx/ptstratx/blob/master/images/logo_ptstratx.png" align="right" height="160" width="200">
 
