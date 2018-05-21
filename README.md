@@ -5,6 +5,11 @@
 
 [Here](https://github.com/ptstratx/ptstratx/wiki/PTStratX-Free-Edition) you get your PTStratX Free Edition.
 
+If you have any questions or problems with the Bot, please contact us on one of the following Telegram groups:
+* [English (Telegram)](https://t.me/joinchat/E0sioVFomfOEJbRUK6gA_A)* [German (Telegram)](https://t.me/joinchat/F0Zt6w_pgIWJHb0NsfCFZA)
+
+Trade on [Binance / Best Exchange for PT2](https://www.binance.com/?ref=29313875)
+
 
 ## PTStratX - Multi Period Backtesting Tool for Profit Trailer 2
 
