@@ -6,7 +6,7 @@
 [Here](https://github.com/ptstratx/ptstratx/wiki/PTStratX-Free-Edition) you get your PTStratX Free Edition.
 
 
-## PTStratX - Multi Period Tester for Profit Trailer 2
+## PTStratX - Multi Period Backtesting Tool for Profit Trailer 2
 
 <img src="https://github.com/ptstratx/ptstratx/blob/master/images/logo_ptstratx.png" align="right" height="160" width="200">
 
