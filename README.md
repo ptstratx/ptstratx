@@ -106,7 +106,7 @@ The price is 0.015 BTC.
 
 Trade on [Binance / Best Exchange for PT2](https://www.binance.com/?ref=29313875)
 
-Get [Profit Trailer](https://profittrailer.com/)
+Get [Profit Trailer](https://profittrailer.com/pt/PTStratX/)
 
 Good luck finding the best strategies
 
