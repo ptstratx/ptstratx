@@ -100,7 +100,7 @@ A short description of the settings for PTStratX can be downloaded here:
 ## How do I get access to the script
 You find the PTStratX Tester on TradingView: [PTStratX](https://www.tradingview.com/script/z3ZqfXLu-PTStratX-Multi-Period-Tester-for-Profit-Trailer-2/)
 
-For your lifetime access to the full version of PTStratX, request your access here: [@PTStratx_Bot](https://web.telegram.org/#/im?p=%40PTStratx_Bot) (Telegram)
+For your lifetime access to the full version of PTStratX, request your access here: [@PTStratx_Bot](https://t.me/PTStratx_Bot) (Telegram)
 
 The price is 0.015 BTC.
 
